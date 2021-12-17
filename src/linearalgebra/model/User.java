@@ -3,6 +3,9 @@ package linearalgebra.model;
 import java.time.LocalDateTime;
 import java.util.List;
 
+// creation of variables to create the user in the system.
+
+
 public class User extends AbstractEntity {
     
     private String name;
