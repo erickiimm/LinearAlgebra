@@ -1,5 +1,7 @@
 package linearalgebra.model;
 
+//where the results of mathematical operations will be created.
+
 public class ResultLinearEquation extends AbstractEntity {
     
     private MathOperation operation;
