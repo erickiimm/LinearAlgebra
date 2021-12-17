@@ -1,5 +1,7 @@
 package linearalgebra.model;
 
+// creation of mathematical operations
+
 import java.time.LocalDateTime;
 import java.util.List;
 
