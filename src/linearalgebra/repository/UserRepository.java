@@ -13,7 +13,9 @@ import linearalgebra.model.AccountType;
 import linearalgebra.model.Sex;
 import linearalgebra.model.User;
 
-// Class responsible for User persistence...
+
+
+
 public class UserRepository extends AbstractRepository<User> {
     
     // responsible for logging (system log) system information    
