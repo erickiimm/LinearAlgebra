@@ -1,5 +1,7 @@
 package linearalgebra.model;
 
+// Creation of variables for operations.
+
 public class LinearEquation extends AbstractEntity {
     
     private MathOperation operation;
