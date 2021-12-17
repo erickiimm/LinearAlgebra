@@ -13,7 +13,8 @@ import linearalgebra.model.LinearEquation;
 import linearalgebra.model.MathOperation;
 import linearalgebra.model.ResultLinearEquation;
 
-
+// Class responsible for the persistence of MathOperation...
+// also responsible for the manipulation of LinearEquation and ResultLinearEquation, as these are heavily dependent on MathOperation
 
 
 
