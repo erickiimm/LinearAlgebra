@@ -4,7 +4,8 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-
+// Persistence class in database
+// an abstract class cannot be instantiated
 
 
 public abstract class AbstractRepository<T> {
