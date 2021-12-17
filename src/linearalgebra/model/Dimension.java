@@ -4,7 +4,8 @@ public enum Dimension {
     TWO(1, "Two"), 
     THREE(2, "Three");
     
-    // attribute that matches the first option of the enum: 1 or 2
+  
+    
     private final int code;
     // attribute that corresponds to the second option of the enum: Two or Three
     private final String description;
