@@ -52,7 +52,7 @@ public class ProfileView extends AbstractView {
         }
         Integer age;
         do {           
-            // chama o metodo inputInt da super classe
+            //  calls the inputString method of the super class
             age = inputInt("Age: ");  
             
             //repeat the loop if age is not between 1 and 99 years old
