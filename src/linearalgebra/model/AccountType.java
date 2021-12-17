@@ -4,7 +4,7 @@ public enum AccountType {
     ADMIN(1, "Admin"), 
     REGULAR_USER(2, "Regular User");  
     
-    
+    // attribute that matches the first option of the enum: 1 or 2
     private final int code;
     // attribute that corresponds to the second option of the enum: Admin or Regular User
     private final String description;
