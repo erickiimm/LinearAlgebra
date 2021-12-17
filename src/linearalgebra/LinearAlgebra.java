@@ -5,6 +5,10 @@ import linearalgebra.model.AccountType;
 import linearalgebra.model.User;
 import linearalgebra.service.UserService;
 
+//This code was a collaboration of the students:
+// Daniel Freitas Ferreira 2020335
+// Eric Kim Mabe - 2020366
+
 // initial class system 
 public class LinearAlgebra {  
         
