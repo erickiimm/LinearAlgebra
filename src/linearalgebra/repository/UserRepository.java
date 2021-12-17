@@ -13,7 +13,7 @@ import linearalgebra.model.AccountType;
 import linearalgebra.model.Sex;
 import linearalgebra.model.User;
 
-
+// Class responsible for User persistence...
 
 
 public class UserRepository extends AbstractRepository<User> {
